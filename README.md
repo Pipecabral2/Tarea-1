@@ -1,15 +1,15 @@
 # Tarea-1
 #==== STACK DEMO ====
-Top of stack: 30
-Popped: 30
-Popped: 20
+#Top of stack: 30
+#Popped: 30
+#Popped: 20
 
-==== QUEUE DEMO ====
-Front of queue: 1
-Dequeued: 1
-Dequeued: 2
+#==== QUEUE DEMO ====
+#Front of queue: 1
+#Dequeued: 1
+#Dequeued: 2
 
-==== HASH TABLE DEMO ====
+#==== HASH TABLE DEMO ====
 [0] -> (apple:50) -> NULL
 [1] -> NULL
 [2] -> NULL
